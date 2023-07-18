@@ -1,0 +1,12 @@
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\bin\Debug\HospitalSimulatorForms.exe.config
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\bin\Debug\HospitalSimulatorForms.exe
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\bin\Debug\HospitalSimulatorForms.pdb
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\obj\Debug\HospitalSimulatorForms.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\obj\Debug\HospitalSimulatorForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\obj\Debug\HospitalSimulatorForms.Properties.Resources.resources
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\obj\Debug\HospitalSimulatorForms.csproj.GenerateResource.cache
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\obj\Debug\HospitalSimulatorForms.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\obj\Debug\HospitalSimulatorForms.exe
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\obj\Debug\HospitalSimulatorForms.pdb
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\obj\Debug\HospitalSimulatorForms.Form1.resources
+C:\Users\aleja\Desktop\EjerciciosEsplai2023\Winforms\HospitalSimulatorForms\HospitalSimulatorForms\obj\Debug\HospitalSimulatorForms.DarAlta.resources

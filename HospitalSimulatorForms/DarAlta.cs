@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HospitalSimulatorForms
 {
-    public partial class Form1 : Form
+    public partial class DarAlta : Form
     {
-        public Form1()
+        public DarAlta()
         {
             InitializeComponent();
         }
